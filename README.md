@@ -10,6 +10,7 @@ Welcome to my project showcase\! This page documents examples that demonstrate m
 | [**2\. Serverless Event-Driven Document Pipeline**](https://github.com/zainulfranciscus/google-cloud-serverless-app) | Cloud Infrastructure & Event-Driven Systems | Google Cloud Platform (GCS, Pub/Sub, Cloud Run, BigQuery), Python, Docker |
 
 
+## **🛠️ Key Architectural Compononents **
 
 * **Agentic AI Systems:** Agent-driven architectures, structured JSON routing, tool execution, and prompt engineering using Google's modern ADK.  
 * **Cloud Architecture & Infrastructure:** Serverless microservices, managed databases, secure service-to-service IAM bindings, and streaming ingestion.  

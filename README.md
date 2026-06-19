@@ -6,8 +6,8 @@ Welcome to my project showcase\! This page documents two production-ready engine
 
 | Project | Core Domain | Key Technologies |
 | :---- | :---- | :---- |
-| **[1\. Intelligent Customer Support Agent](https://www.google.com/search?q=%23-1-intelligent-customer-support-agent)** | AI Orchestration & Agentic Workflows | Google Agent Development Kit (ADK), Gemini, Python, Pydantic, Telemetry |
-| [**2\. Serverless Event-Driven Document Pipeline**](https://www.google.com/search?q=%23-2-serverless-event-driven-document-processing-pipeline) | Cloud Infrastructure & Event-Driven Systems | Google Cloud Platform (GCS, Pub/Sub, Cloud Run, BigQuery), Python, Docker |
+| **[1\. Intelligent Customer Support Agent](https://github.com/zainulfranciscus/customer-support-agent)** | AI Orchestration & Agentic Workflows | Google Agent Development Kit (ADK), Gemini, Python, Pydantic, Telemetry |
+| [**2\. Serverless Event-Driven Document Pipeline**](https://github.com/zainulfranciscus/google-cloud-serverless-app) | Cloud Infrastructure & Event-Driven Systems | Google Cloud Platform (GCS, Pub/Sub, Cloud Run, BigQuery), Python, Docker |
 
 ## **🧠 1\. Intelligent Customer Support Agent**
 

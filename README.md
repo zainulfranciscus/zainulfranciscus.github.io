@@ -1,5 +1,3 @@
-# **Project Portfolio**
-
 Welcome to my project showcase\! This page documents examples that demonstrate intelligent workflows built using Agentic AI Coding tool called [Antigravity](https://antigravity.google/)
 
 ## **📂 Featured Projects**
